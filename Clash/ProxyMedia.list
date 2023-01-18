@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2023-01-15 22:06:33
-# 数量：330条
+# 更新：2023-01-18 09:46:17
+# 数量：338条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -417,3 +417,13 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
+
+# NivodTV
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,nivod.tv
+DOMAIN-SUFFIX,nbys.tv
+DOMAIN-SUFFIX,nbyy.tv
+DOMAIN-SUFFIX,nbys1.tv
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,vod360.net
