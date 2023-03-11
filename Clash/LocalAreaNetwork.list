@@ -26,6 +26,7 @@ IP-CIDR6,fd00::/8,no-resolve
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,router.asus.com
+DOMAIN,www.asusrouter.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,miwifi.com
