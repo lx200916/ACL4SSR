@@ -31,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,sg
   - DOMAIN-SUFFIX,tw
   - DOMAIN-SUFFIX,uk
-  - DOMAIN-SUFFIX,us
   - DOMAIN-SUFFIX,ca
 
   # 国外域名关键字
@@ -4487,7 +4486,6 @@ payload:
   - DOMAIN-SUFFIX,sjum.cn
   - DOMAIN-SUFFIX,sketchappsources.com
   - DOMAIN-SUFFIX,skimtube.com
-  - DOMAIN-SUFFIX,skk.moe
   - DOMAIN-SUFFIX,skybet.com
   - DOMAIN-SUFFIX,skyking.com.tw
   - DOMAIN-SUFFIX,skykiwi.com
