@@ -1,5 +1,5 @@
 # 内容：Private Tracker
-# 数量：114条
+# 数量：115条
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
@@ -106,6 +106,7 @@ DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,torrentday.com
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,torrentseeds.org
