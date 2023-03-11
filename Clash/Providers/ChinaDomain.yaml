@@ -25,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,xn--io0a7i
 
   # 中国国内常见域名关键词直连
-  - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,360buy
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,alimama
@@ -36,7 +35,6 @@ payload:
   - DOMAIN-KEYWORD,ccgslb
   - DOMAIN-KEYWORD,chinacache
   - DOMAIN-KEYWORD,duobao
-  - DOMAIN-KEYWORD,duolingo
   - DOMAIN-KEYWORD,jdpay
   - DOMAIN-KEYWORD,moke
   - DOMAIN-KEYWORD,qhimg
@@ -138,13 +136,29 @@ payload:
   - DOMAIN-SUFFIX,blizzard.com
 
   # ByteDance
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,bdxiguaimg.com
+  - DOMAIN-SUFFIX,bdxiguastatic.com
+  - DOMAIN-SUFFIX,byted-static.com
   - DOMAIN-SUFFIX,bytedance.com
   - DOMAIN-SUFFIX,bytedance.net
   - DOMAIN-SUFFIX,bytedns.net
+  - DOMAIN-SUFFIX,bytednsdoc.com
+  - DOMAIN-SUFFIX,bytegoofy.com
   - DOMAIN-SUFFIX,byteimg.com
+  - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,bytetos.com
+  - DOMAIN-SUFFIX,bytexservice.com
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,douyinpic.com
+  - DOMAIN-SUFFIX,douyinstatic.com
+  - DOMAIN-SUFFIX,douyinvod.com
+  - DOMAIN-SUFFIX,feelgood.cn
   - DOMAIN-SUFFIX,feiliao.com
   - DOMAIN-SUFFIX,gifshow.com
   - DOMAIN-SUFFIX,huoshan.com
+  - DOMAIN-SUFFIX,huoshanzhibo.com
+  - DOMAIN-SUFFIX,ibytedapm.com
   - DOMAIN-SUFFIX,iesdouyin.com
   - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-SUFFIX,kspkg.com
@@ -187,6 +201,7 @@ payload:
 
   # Epic
   - DOMAIN-SUFFIX,epicgames.com
+  - DOMAIN-SUFFIX,epicgames.dev
   - DOMAIN-SUFFIX,helpshift.com
   - DOMAIN-SUFFIX,paragon.com
   - DOMAIN-SUFFIX,unrealengine.com
@@ -288,10 +303,16 @@ payload:
   - DOMAIN-SUFFIX,leju.com
   - DOMAIN-SUFFIX,miaopai.com
   - DOMAIN-SUFFIX,sina.com
+  - DOMAIN-SUFFIX,sina.com.cn
+  - DOMAIN-SUFFIX,sina.cn
   - DOMAIN-SUFFIX,sinaapp.com
+  - DOMAIN-SUFFIX,sinaapp.cn
   - DOMAIN-SUFFIX,sinaimg.com
+  - DOMAIN-SUFFIX,sinaimg.cn
   - DOMAIN-SUFFIX,weibo.com
+  - DOMAIN-SUFFIX,weibo.cn
   - DOMAIN-SUFFIX,weibocdn.com
+  - DOMAIN-SUFFIX,weibocdn.cn
   - DOMAIN-SUFFIX,xiaoka.tv
 
   # Sohu Sogo
@@ -430,7 +451,6 @@ payload:
 
   # TeamViewer
   - DOMAIN-SUFFIX,teamviewer.com
-  - IP-CIDR,109.239.140.0/24,no-resolve
   - IP-CIDR,139.220.243.27/32,no-resolve
   - IP-CIDR,172.16.102.56/32,no-resolve
   - IP-CIDR,185.188.32.1/28,no-resolve
@@ -495,8 +515,6 @@ payload:
   - DOMAIN-SUFFIX,clouddn.com
   - DOMAIN-SUFFIX,cloudxns.net
   - DOMAIN-SUFFIX,cn163.net
-  - DOMAIN-SUFFIX,cnbeta.com
-  - DOMAIN-SUFFIX,cnbetacdn.com
   - DOMAIN-SUFFIX,cnblogs.com
   - DOMAIN-SUFFIX,cnki.net
   - DOMAIN-SUFFIX,cnmstl.net
