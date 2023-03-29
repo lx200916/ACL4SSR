@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,cache.pack.google.com
 DOMAIN-SUFFIX,clickserve.dartsearch.net
 DOMAIN-SUFFIX,clientservices.googleapis.com
 DOMAIN-SUFFIX,crl.pki.goog
-DOMAIN-SUFFIX,dl.google.com
+#DOMAIN-SUFFIX,dl.google.com
 DOMAIN-SUFFIX,dl.l.google.com
 DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,fonts.gstatic.com
