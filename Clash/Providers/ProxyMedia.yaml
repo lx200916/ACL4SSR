@@ -1,6 +1,6 @@
 payload:
   # 内容：国外媒体列表
-  # 更新：2023-02-24 19:46:17
+  # 更新：2023-03-12 21:43:01
   # 数量：350条
 
   # ABC
@@ -308,6 +308,30 @@ payload:
   - DOMAIN-SUFFIX,nicovideo.jp
   - DOMAIN-SUFFIX,nimg.jp
 
+  # NivodTV
+  - DOMAIN-KEYWORD,nivod
+  - DOMAIN-SUFFIX,biggggg.com
+  - DOMAIN-SUFFIX,mudvod.tv
+  - DOMAIN-SUFFIX,nbys.tv
+  - DOMAIN-SUFFIX,nbys1.tv
+  - DOMAIN-SUFFIX,nbyy.tv
+  - DOMAIN-SUFFIX,newpppp.com
+  - DOMAIN-SUFFIX,nivod.tv
+  - DOMAIN-SUFFIX,nivodi.tv
+  - DOMAIN-SUFFIX,nivodz.com
+  - DOMAIN-SUFFIX,vod360.net
+
+  # Olevod
+  - DOMAIN-KEYWORD,olevod
+  - DOMAIN-SUFFIX,haiwaikan.com
+  - DOMAIN-SUFFIX,iole.tv
+  - DOMAIN-SUFFIX,olehd.com
+  - DOMAIN-SUFFIX,olelive.com
+  - DOMAIN-SUFFIX,olevod.com
+  - DOMAIN-SUFFIX,olevod.io
+  - DOMAIN-SUFFIX,olevod.tv
+  - DOMAIN-SUFFIX,olevodtv.com
+
   # PBS
   # USER-AGENT,PBS*
   - DOMAIN-SUFFIX,pbs.org
@@ -418,27 +442,3 @@ payload:
   # USER-AGENT,YouTubeMusic*
   # USER-AGENT,com.google.ios.youtubemusic*
   - DOMAIN,music.youtube.com
-
-  # NivodTV
-  - DOMAIN-KEYWORD,nivod
-  - DOMAIN-SUFFIX,biggggg.com
-  - DOMAIN-SUFFIX,mudvod.tv
-  - DOMAIN-SUFFIX,nivod.tv
-  - DOMAIN-SUFFIX,nivodz.com
-  - DOMAIN-SUFFIX,nivodi.tv
-  - DOMAIN-SUFFIX,nbys.tv
-  - DOMAIN-SUFFIX,nbyy.tv
-  - DOMAIN-SUFFIX,nbys1.tv
-  - DOMAIN-SUFFIX,newpppp.com
-  - DOMAIN-SUFFIX,vod360.net
-  
-  # Olevod
-  - DOMAIN-KEYWORD,olevod
-  - DOMAIN-SUFFIX,olevod.com
-  - DOMAIN-SUFFIX,olevod.tv
-  - DOMAIN-SUFFIX,olevodtv.com
-  - DOMAIN-SUFFIX,olevod.io
-  - DOMAIN-SUFFIX,olelive.com
-  - DOMAIN-SUFFIX,olehd.com
-  - DOMAIN-SUFFIX,iole.tv
-  - DOMAIN-SUFFIX,haiwaikan.com

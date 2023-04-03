@@ -28,6 +28,7 @@ payload:
   - DOMAIN,instant.arubanetworks.com
   - DOMAIN,setmeup.arubanetworks.com
   - DOMAIN,router.asus.com
+  - DOMAIN,www.asusrouter.com
   - DOMAIN-SUFFIX,hiwifi.com
   - DOMAIN-SUFFIX,leike.cc
   - DOMAIN-SUFFIX,miwifi.com
@@ -40,3 +41,4 @@ payload:
   - DOMAIN-SUFFIX,tendawifi.com
   - DOMAIN-SUFFIX,zte.home
   - DOMAIN-SUFFIX,tplogin.cn
+  - DOMAIN-SUFFIX,wifi.cmcc

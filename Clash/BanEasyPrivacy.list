@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2023-03-11 22:07:26
-# 数量：14959条
+# 更新：2023-03-12 21:42:52
+# 数量：14961条
 
 DOMAIN-SUFFIX,0-owazo4.net.zooplus.de
 DOMAIN-SUFFIX,0.data.net.zooplus.de
@@ -8619,6 +8619,7 @@ DOMAIN-SUFFIX,ptracker.nurturehq.com
 DOMAIN-SUFFIX,ptsc.shoplocal.com
 DOMAIN-SUFFIX,pub.servidoresge.com
 DOMAIN-SUFFIX,pub.sheknows.com
+DOMAIN-SUFFIX,pubgw.yahoo.com
 DOMAIN-SUFFIX,pubtm.com
 DOMAIN-SUFFIX,puffypaste.com
 DOMAIN-SUFFIX,puiwrs.misterspex.de
@@ -11847,6 +11848,7 @@ DOMAIN-SUFFIX,stats.redlabelsports.com
 DOMAIN-SUFFIX,stats.reisemobil.pro
 DOMAIN-SUFFIX,stats.remotebear.io
 DOMAIN-SUFFIX,stats.revit-content.com
+DOMAIN-SUFFIX,stats.rocketbeans.tv
 DOMAIN-SUFFIX,stats.rocketvalidator.com
 DOMAIN-SUFFIX,stats.russellstover.com
 DOMAIN-SUFFIX,stats.sa-as.com

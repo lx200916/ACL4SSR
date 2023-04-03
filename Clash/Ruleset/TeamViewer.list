@@ -1,5 +1,5 @@
 # 内容：TeamViewer
-# 数量：10条
+# 数量：9条
 DOMAIN-SUFFIX,teamviewer.com
 IP-CIDR,139.220.243.27/32,no-resolve
 IP-CIDR,172.16.102.56/32,no-resolve

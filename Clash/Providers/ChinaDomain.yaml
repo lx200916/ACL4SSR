@@ -210,6 +210,7 @@ payload:
   - DOMAIN-SUFFIX,dbankcdn.com
   - DOMAIN-SUFFIX,hc-cdn.com
   - DOMAIN-SUFFIX,hicloud.com
+  - DOMAIN-SUFFIX,hihonor.com
   - DOMAIN-SUFFIX,huawei.com
   - DOMAIN-SUFFIX,huaweicloud.com
   - DOMAIN-SUFFIX,huaweishop.net
@@ -446,6 +447,7 @@ payload:
   - DOMAIN-SUFFIX,redacted.ch
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,tju.pt
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,trontv.com
 
@@ -614,7 +616,9 @@ payload:
   - DOMAIN-SUFFIX,nruan.com
   - DOMAIN-SUFFIX,nuomi.com
   - DOMAIN-SUFFIX,onedns.net
+  - DOMAIN-SUFFIX,oneplus.com
   - DOMAIN-SUFFIX,onlinedown.net
+  - DOMAIN-SUFFIX,oppo.com
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oschina.net
   - DOMAIN-SUFFIX,ourdvs.com
@@ -636,6 +640,7 @@ payload:
   - DOMAIN-SUFFIX,quanmin.tv
   - DOMAIN-SUFFIX,qunar.com
   - DOMAIN-SUFFIX,qunarzz.com
+  - DOMAIN-SUFFIX,realme.com
   - DOMAIN-SUFFIX,repaik.com
   - DOMAIN-SUFFIX,ruguoapp.com
   - DOMAIN-SUFFIX,runoob.com
@@ -669,6 +674,7 @@ payload:
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,uxengine.net
   - DOMAIN-SUFFIX,videocc.net
+  - DOMAIN-SUFFIX,vivo.com
   - DOMAIN-SUFFIX,wandoujia.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,weico.cc
